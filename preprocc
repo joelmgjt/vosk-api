@@ -1,0 +1,1 @@
+ffmpeg -i file.mp3 -ar 16000 -ac 1 file.wav
